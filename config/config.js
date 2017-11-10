@@ -407,7 +407,7 @@ exports.grouplist = [
 	},
 	{
 		symbol: '?',
-		id: "noob".
+		id: "noob",
 		name: "NOOB",
 		inherit: '@',
 		declare: true,
