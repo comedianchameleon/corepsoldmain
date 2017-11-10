@@ -13,3 +13,63 @@
 13:09:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:0
 13:19:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:0
 13:29:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:0
+13:39:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+13:49:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+13:59:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:09:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:19:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:29:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:37:54 NEW CHATROOM: staff
+14:43:59 |J|>Jr. Nice Guy
+14:47:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+14:55:18 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch chat
+14:55:25 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch chat
+14:55:25 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch tournaments
+14:55:25 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch formats
+14:55:25 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch loginserver
+14:55:25 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch punishments
+14:55:25 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch dnsbl
+14:55:25 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch all
+14:57:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|$:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+14:58:09 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch chat
+14:58:09 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch tournaments
+14:58:09 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch formats
+14:58:09 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch loginserver
+14:58:09 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch punishments
+14:58:09 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch dnsbl
+14:58:09 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch all
+15:07:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|$:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+15:17:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|$:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+15:24:50 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch chat
+15:24:50 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch tournaments
+15:24:50 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch formats
+15:24:50 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch loginserver
+15:24:50 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch punishments
+15:24:50 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch dnsbl
+15:24:50 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch all
+15:25:16 |html|<div class="broadcast-red"><b>The server has crashed:</b> TypeError: Cannot read property &apos;rank&apos; of undefined<br />    at CommandContext.promote (C:\Users\Josh\Desktop\coreps\chat-commands.js:1973:67)</div>
+15:27:54 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+15:37:54 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:09:35 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:19:35 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:29:35 |userstats|total:1|guests:0| :0|☕:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:30:39 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch chat
+16:30:39 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch tournaments
+16:30:39 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch formats
+16:30:39 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch loginserver
+16:30:39 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch punishments
+16:30:39 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch dnsbl
+16:30:39 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch all
+16:31:40 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch chat
+16:31:40 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch tournaments
+16:31:40 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch formats
+16:31:40 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch loginserver
+16:31:40 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch punishments
+16:31:40 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch dnsbl
+16:31:40 |c|>Jr. Nice Guy|/log Jr. Nice Guy used /hotpatch all
+16:39:35 |userstats|total:1|guests:0| :0|☕:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:40:46 |J|~1vI
+16:49:35 |userstats|total:2|guests:0| :0|☕:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:1|>:1
+16:50:14 |L|~1vI
+16:50:31 NEW CHATROOM: staff
+16:50:41 |J|~1vI

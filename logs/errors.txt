@@ -1,0 +1,19 @@
+
+TypeError: Cannot read property 'rank' of undefined
+    at CommandContext.promote (C:\Users\Josh\Desktop\coreps\chat-commands.js:1973:67)
+    at CommandContext.run (C:\Users\Josh\Desktop\coreps\chat.js:454:28)
+    at CommandContext.demote (C:\Users\Josh\Desktop\coreps\chat-commands.js:2008:8)
+    at CommandContext.run (C:\Users\Josh\Desktop\coreps\chat.js:454:28)
+    at CommandContext.parse (C:\Users\Josh\Desktop\coreps\chat.js:253:19)
+    at CommandContext.parse (C:\Users\Josh\Desktop\coreps\chat.js:240:22)
+    at CommandContext.globaldeauth (C:\Users\Josh\Desktop\coreps\chat-commands.js:2038:15)
+    at CommandContext.run (C:\Users\Josh\Desktop\coreps\chat.js:454:28)
+    at CommandContext.parse (C:\Users\Josh\Desktop\coreps\chat.js:253:19)
+    at Object.Chat.parse (C:\Users\Josh\Desktop\coreps\chat.js:992:17)
+
+Additional information:
+  user = Jr. Nice Guy
+  room = lobby
+  pmTarget = undefined
+  message = /globaldemote quantumtesseract, deauth
+

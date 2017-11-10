@@ -406,13 +406,6 @@ exports.grouplist = [
 		addhtml: true,
 	},
 	{
-		symbol: '?',
-		id: "noob",
-		name: "NOOB",
-		inherit: '@',
-		declare: true,
-	},
-	{
 		symbol: '@',
 		id: "mod",
 		name: "Moderator",
@@ -426,6 +419,13 @@ exports.grouplist = [
 		alts: '@u',
 		tournaments: true,
 		game: true,
+	},
+	{
+		symbol: '?',
+		id: "noob",
+		name: "NOOB",
+		inherit: '%',
+		declare: true,
 	},
 	{
 		symbol: '%',
@@ -467,6 +467,12 @@ exports.grouplist = [
 		inherit: ' ',
 		alts: 's',
 		broadcast: true,
+	},
+	{
+		symbol: '\u2615',
+		ip: "cooluser",
+		name: "Cool User",
+		inherit: ' ',
 	},
 	{
 		symbol: ' ',

@@ -13,3 +13,78 @@
 13:09:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:0
 13:19:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:0
 13:29:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:0
+13:39:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+13:49:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+13:59:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:09:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:19:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:29:25 |userstats|total:0|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:0
+14:37:54 NEW CHATROOM: lobby
+14:43:59 |J|>Jr. Nice Guy
+14:45:20 |c|>Jr. Nice Guy|/log unleashourpassion was promoted to NOOB by Jr. Nice Guy.
+14:47:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+14:56:18 |c|>Jr. Nice Guy|/log quantumtesseract was promoted to regular user by Jr. Nice Guy.
+14:56:57 (quantumtesseract was demoted to regular user by Jr. Nice Guy.)
+14:57:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|$:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+14:58:28 |c|>Jr. Nice Guy|/log quantumtesseract was promoted to NEWB by Jr. Nice Guy.
+14:58:59 |c|>Jr. Nice Guy|/log Ransei was promoted to Moderator by Jr. Nice Guy.
+14:59:28 (quantumtesseract was demoted to regular user by Jr. Nice Guy.)
+14:59:56 |c|>Jr. Nice Guy|/log quantumtesseract was promoted to NEWB by Jr. Nice Guy.
+15:00:07 (quantumtesseract was demoted to regular user by Jr. Nice Guy.)
+15:00:14 |c|>Jr. Nice Guy|/log Quantum Tesseract was promoted to NEWB by Jr. Nice Guy.
+15:00:19 (unleashourpassion was demoted to regular user by Jr. Nice Guy.)
+15:00:39 |c|>Jr. Nice Guy|/log UnleashOurPassion was promoted to NOOB by Jr. Nice Guy.
+15:07:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|$:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+15:13:46 |raw|<div class="broadcast-red"><strong>Moderated chat was set to $!</strong><br />Only users of rank $ and higher can talk.</div>
+15:13:46 (Jr. Nice Guy set modchat to $)
+15:13:50 |raw|<div class="broadcast-blue"><strong>Moderated chat was disabled!</strong><br />Anyone may talk now.</div>
+15:13:50 (Jr. Nice Guy set modchat to false)
+15:17:54 |userstats|total:1|guests:0| :0|+:0|★:0|%:0|$:0|@:0|?:0|*:0|☆:0|#:0|&:0|~:0|>:1
+15:25:16 |html|<div class="broadcast-red"><b>The server has crashed:</b> TypeError: Cannot read property &apos;rank&apos; of undefined<br />    at CommandContext.promote (C:\Users\Josh\Desktop\coreps\chat-commands.js:1973:67)</div>
+15:25:34 |c|>Jr. Nice Guy|/log Quantum Tesseract was promoted to NOOB by Jr. Nice Guy.
+15:26:24 |c|>Jr. Nice Guy|/log snorlaxtherain was promoted to NOOB by Jr. Nice Guy.
+15:26:45 (quantumtesseract was demoted to Driver by Jr. Nice Guy.)
+15:27:54 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+15:29:28 |c|>Jr. Nice Guy|/log theheheheh was promoted to NOOB by Jr. Nice Guy.
+15:32:37 |c|>Jr. Nice Guy|/log snorlaxtherain was promoted to Moderator by Jr. Nice Guy.
+15:32:48 (gw8 was demoted to Games & Tour Hoster by Jr. Nice Guy.)
+15:33:02 (odobo was demoted to Voice by Jr. Nice Guy.)
+15:33:18 (lvl100blaziken was demoted to Games & Tour Hoster by Jr. Nice Guy.)
+15:33:43 |c|>Jr. Nice Guy|/log gw8 was promoted to Driver by Jr. Nice Guy.
+15:33:55 |c|>Jr. Nice Guy|/log lvl100blaziken was promoted to Driver by Jr. Nice Guy.
+15:35:56 |c|>Jr. Nice Guy|/log drampas@~@grandpa was promoted to Games & Tour Hoster by Jr. Nice Guy.
+15:36:25 |c|>Jr. Nice Guy|/log Torterraman456 was promoted to Games & Tour Hoster by Jr. Nice Guy.
+15:37:54 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+15:39:06 (lvl100blaziken was demoted to Games & Tour Hoster by Jr. Nice Guy.)
+16:09:35 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:17:34 |c|>Jr. Nice Guy|/log Iron Crusher was promoted to Moderator by Jr. Nice Guy.
+16:17:49 |c|>Jr. Nice Guy|/log vyz was promoted to NOOB by Jr. Nice Guy.
+16:19:35 |userstats|total:1|guests:0| :0|◉:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:20:50 (snorlaxtherain was demoted to NOOB by Jr. Nice Guy.)
+16:21:06 (vyz was demoted to Voice by Jr. Nice Guy.)
+16:29:35 |userstats|total:1|guests:0| :0|☕:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:30:40 |c|>Jr. Nice Guy|/log Fertile Crescent was promoted to Cool User by Jr. Nice Guy.
+16:31:48 (vyz was demoted to regular user by Jr. Nice Guy.)
+16:31:53 |c|>Jr. Nice Guy|/log Vyz was promoted to Cool User by Jr. Nice Guy.
+16:39:35 |userstats|total:1|guests:0| :0|☕:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:0|>:1
+16:40:46 |J|~1vI
+16:46:48 (1vI changed the roomintro.)
+16:46:48 <b><font size="4">Welcome to <i>Core</i>!</font><br><font size="3">We host all sorts of Games and Tournaments!<br>Ask one of our <button name="send" value="/auth">Staff</button></font></b>
+16:47:17 (1vI changed the roomintro.)
+16:47:17 <b><font size="6">Welcome to <i>Core</i>!</font></b><br><font size="5">We host all sorts of Games and Tournaments!<br>Ask one of our <button name="send" value="/auth">Staff</button></font>
+16:47:28 (1vI changed the roomintro.)
+16:47:28 <b><font size="6">Welcome to <i>Core</i>!</font></b><br><font size="5">We host all sorts of Games and Tournaments for you and your friends!<br>Ask one of our <button name="send" value="/auth">Staff</button></font>
+16:47:46 (1vI changed the roomintro.)
+16:47:46 <b><font size="6">Welcome to <i>Core</i>!</font></b><br><font size="5">We host all sorts of Games and Tournaments for you and your friends!<br>Ask one of our <button name="send" value="/auth">Staff</button></font> for information or help!
+16:47:59 (1vI changed the roomintro.)
+16:47:59 <b><font size="6">Welcome to <i>Core</i>!</font></b><br><font size="5">We host all sorts of Games and Tournaments for you and your friends!<br>Ask one of our <button name="send" value="/auth">Staff</button>for information or help!</font>
+16:48:20 (1vI changed the roomintro.)
+16:48:20 <b><font size="6">Welcome to <i>Core</i>!</font></b><br><font size="5">We host all sorts of Games and Tournaments for you and your friends!<br>Ask one of our <button name="send" value="/auth"><font size="5"><b>Staff</b></font></button>for information or help!</font>
+16:48:25 (1vI changed the roomintro.)
+16:48:25 <b><font size="6">Welcome to <i>Core</i>!</font></b><br><font size="5">We host all sorts of Games and Tournaments for you and your friends!<br>Ask one of our <button name="send" value="/auth"><font size="5"><b>Staff</b></font></button> for information or help!</font>
+16:48:47 (1vI changed the roomintro.)
+16:48:47 <b><font size="6">Welcome to <i>Core</i>!</font></b><br><font size="5">We host all sorts of Games and Tournaments for you and your friends!<br>Ask one of our friendly <button name="send" value="/auth"><font size="5"><b>Staff</b></font></button> for information or help!</font>
+16:49:35 |userstats|total:2|guests:0| :0|☕:0|+:0|★:0|%:0|?:0|@:0|*:0|☆:0|#:0|&:0|~:1|>:1
+16:50:14 |L|~1vI
+16:50:31 NEW CHATROOM: lobby
+16:50:41 |J|~1vI

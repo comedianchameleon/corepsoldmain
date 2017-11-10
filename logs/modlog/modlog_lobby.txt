@@ -1,0 +1,41 @@
+[2017-11-10T20:45:20.485Z] (lobby) unleashourpassion was promoted to NOOB by Jr. Nice Guy.
+[2017-11-10T20:56:18.972Z] (lobby) quantumtesseract was promoted to regular user by Jr. Nice Guy.
+[2017-11-10T20:56:57.017Z] (lobby) (quantumtesseract was demoted to regular user by Jr. Nice Guy.)
+[2017-11-10T20:58:28.540Z] (lobby) quantumtesseract was promoted to NEWB by Jr. Nice Guy.
+[2017-11-10T20:58:59.459Z] (lobby) Ransei was promoted to Moderator by Jr. Nice Guy.
+[2017-11-10T20:59:28.057Z] (lobby) (quantumtesseract was demoted to regular user by Jr. Nice Guy.)
+[2017-11-10T20:59:56.573Z] (lobby) quantumtesseract was promoted to NEWB by Jr. Nice Guy.
+[2017-11-10T21:00:07.453Z] (lobby) (quantumtesseract was demoted to regular user by Jr. Nice Guy.)
+[2017-11-10T21:00:14.861Z] (lobby) Quantum Tesseract was promoted to NEWB by Jr. Nice Guy.
+[2017-11-10T21:00:19.620Z] (lobby) (unleashourpassion was demoted to regular user by Jr. Nice Guy.)
+[2017-11-10T21:00:39.819Z] (lobby) UnleashOurPassion was promoted to NOOB by Jr. Nice Guy.
+[2017-11-10T21:13:46.548Z] (lobby) (Jr. Nice Guy set modchat to $)
+[2017-11-10T21:13:50.030Z] (lobby) (Jr. Nice Guy set modchat to false)
+[2017-11-10T21:25:34.650Z] (lobby) Quantum Tesseract was promoted to NOOB by Jr. Nice Guy.
+[2017-11-10T21:26:24.684Z] (lobby) snorlaxtherain was promoted to NOOB by Jr. Nice Guy.
+[2017-11-10T21:26:45.119Z] (lobby) (quantumtesseract was demoted to Driver by Jr. Nice Guy.)
+[2017-11-10T21:29:28.310Z] (lobby) theheheheh was promoted to NOOB by Jr. Nice Guy.
+[2017-11-10T21:32:37.005Z] (lobby) snorlaxtherain was promoted to Moderator by Jr. Nice Guy.
+[2017-11-10T21:32:48.400Z] (lobby) (gw8 was demoted to Games & Tour Hoster by Jr. Nice Guy.)
+[2017-11-10T21:33:02.840Z] (lobby) (odobo was demoted to Voice by Jr. Nice Guy.)
+[2017-11-10T21:33:18.676Z] (lobby) (lvl100blaziken was demoted to Games & Tour Hoster by Jr. Nice Guy.)
+[2017-11-10T21:33:43.656Z] (lobby) gw8 was promoted to Driver by Jr. Nice Guy.
+[2017-11-10T21:33:55.371Z] (lobby) lvl100blaziken was promoted to Driver by Jr. Nice Guy.
+[2017-11-10T21:35:56.906Z] (lobby) drampas@~@grandpa was promoted to Games & Tour Hoster by Jr. Nice Guy.
+[2017-11-10T21:36:25.917Z] (lobby) Torterraman456 was promoted to Games & Tour Hoster by Jr. Nice Guy.
+[2017-11-10T21:39:06.563Z] (lobby) (lvl100blaziken was demoted to Games & Tour Hoster by Jr. Nice Guy.)
+[2017-11-10T22:17:34.630Z] (lobby) Iron Crusher was promoted to Moderator by Jr. Nice Guy.
+[2017-11-10T22:17:49.223Z] (lobby) vyz was promoted to NOOB by Jr. Nice Guy.
+[2017-11-10T22:20:50.529Z] (lobby) (snorlaxtherain was demoted to NOOB by Jr. Nice Guy.)
+[2017-11-10T22:21:06.526Z] (lobby) (vyz was demoted to Voice by Jr. Nice Guy.)
+[2017-11-10T22:30:40.679Z] (lobby) Fertile Crescent was promoted to Cool User by Jr. Nice Guy.
+[2017-11-10T22:31:48.318Z] (lobby) (vyz was demoted to regular user by Jr. Nice Guy.)
+[2017-11-10T22:31:53.500Z] (lobby) Vyz was promoted to Cool User by Jr. Nice Guy.
+[2017-11-10T22:46:48.557Z] (lobby) (1vI changed the roomintro.)
+[2017-11-10T22:47:17.883Z] (lobby) (1vI changed the roomintro.)
+[2017-11-10T22:47:28.044Z] (lobby) (1vI changed the roomintro.)
+[2017-11-10T22:47:46.030Z] (lobby) (1vI changed the roomintro.)
+[2017-11-10T22:47:59.662Z] (lobby) (1vI changed the roomintro.)
+[2017-11-10T22:48:20.695Z] (lobby) (1vI changed the roomintro.)
+[2017-11-10T22:48:25.812Z] (lobby) (1vI changed the roomintro.)
+[2017-11-10T22:48:47.500Z] (lobby) (1vI changed the roomintro.)
