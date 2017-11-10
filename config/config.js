@@ -406,6 +406,13 @@ exports.grouplist = [
 		addhtml: true,
 	},
 	{
+		symbol: '?',
+		id: "noob".
+		name: "NOOB",
+		inherit: '@',
+		declare: true,
+	},
+	{
 		symbol: '@',
 		id: "mod",
 		name: "Moderator",
