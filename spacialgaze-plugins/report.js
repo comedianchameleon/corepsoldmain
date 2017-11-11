@@ -27,7 +27,6 @@ exports.commands = {
 	report: 'requesthelp',
 	requesthelp: function (target, room, user) {
 		if (user.can('pban')) return this.parse('/reports ' + (target || ''));
-		if (!this.canTalk()) return this.errorReply("You can't use this command while unable to speak.");
 		if (!target) return this.errorReply("Usage: /requesthelp [message] - Requests help from Senior Staff. Please remember to include as much detail as possible with your request.");
 		if (target.length < 1) return this.errorReply("Usage: /requesthelp [message] - Requests help from Senior Staff. Please remember to include as much detail as possible with your request.");
 
