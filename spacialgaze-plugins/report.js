@@ -26,7 +26,7 @@ exports.commands = {
 	bitch: 'requesthelp',
 	report: 'requesthelp',
 	requesthelp: function (target, room, user) {
-		if (user.can('pban')) return this.parse('/reports ' + (target || ''));
+		if (user.can('lock')) return this.parse('/reports ' + (target || ''));
 		if (!target) return this.errorReply("Usage: /requesthelp [message] - Requests help from Senior Staff. Please remember to include as much detail as possible with your request.");
 		if (target.length < 1) return this.errorReply("Usage: /requesthelp [message] - Requests help from Senior Staff. Please remember to include as much detail as possible with your request.");
 
@@ -45,7 +45,7 @@ exports.commands = {
 	},
 
 	reports: function (target, room, user, connection) {
-		if (!user.can('pban')) return this.errorReply('/reports - Access denied.');
+		if (!user.can('lock')) return this.errorReply('/reports - Access denied.');
 		if (!target) target = '';
 		target = target.trim();
 
