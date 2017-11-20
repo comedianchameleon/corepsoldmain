@@ -4,7 +4,7 @@
 exports.port = 8000;
 
 //serverIp for parsing of custom avatars, put your server's ip here
-exports.serverIp = '10.127.0.12';
+exports.serverIp = '';
 
 // The server address - the address at which Pokemon Showdown should be hosting
 //   This should be kept set to 0.0.0.0 unless you know what you're doing.
@@ -33,7 +33,7 @@ exports.workers = 1;
 //   of strings. Each string should be either an IP address or a subnet given
 //   in CIDR notation. You should usually leave this as `false` unless you
 //   know what you are doing.
-exports.proxyip = false;
+exports.proxyip = '10.69.187.220/8';
 
 // ofe - write heapdumps if sockets.js workers run out of memory.
 //   If you wish to enable this, you will need to install ofe, as it is not a
